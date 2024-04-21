@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000420711108",
+    "project_id": "bitdex-c33f3",
+    "storage_bucket": "bitdex-c33f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000420711108:android:f1586ae1b3d2a9c4018791",
+        "android_client_info": {
+          "package_name": "com.example.bitdex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000420711108-0s8t6tspkm40sn43sg2t2tg1dgk9feg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXDD4ucAtUixqmukM02RRPmih7t00T5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000420711108-0s8t6tspkm40sn43sg2t2tg1dgk9feg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
